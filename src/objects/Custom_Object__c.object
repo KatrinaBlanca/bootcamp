@@ -91,7 +91,6 @@
     <pluralLabel>CP Login Config</pluralLabel>
     <searchLayouts>
         <excludedStandardButtons>New</excludedStandardButtons>
-        <excludedStandardButtons>Forward</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
         <excludedStandardButtons>Accept</excludedStandardButtons>
     </searchLayouts>

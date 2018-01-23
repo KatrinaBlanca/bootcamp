@@ -167,10 +167,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EditOwnQuota</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>EditPublicDocuments</name>
     </userPermissions>
     <userPermissions>
